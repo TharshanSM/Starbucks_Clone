@@ -23,7 +23,7 @@ This project was inspired by the tutorial from Traversy Media on YouTube, and cr
 
 ## Usage
 
-To view the Starbucks Cloning project, simply click [here](https://tharshansm.github.io/starbuck-clone/#) file in a web browser of your choice.
+To view the Starbucks Cloning project, simply click [here](https://tharshansm.github.io/Starbucks_Clone/) file in a web browser of your choice.
 
 ## Credits
 
